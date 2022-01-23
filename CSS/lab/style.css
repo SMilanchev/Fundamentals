@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+img {
+    text-align: center;
+    width:300px
+}
+p {
+    color: darkviolet;
+}
+h1 {
+    color: blue;
+}
+li {
+    border-style: solid;
+    border-color: yellow;
+}
+span {
+    border: dotted;
+    border-color: darkcyan;
+}
